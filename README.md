@@ -9,6 +9,10 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 1. Free resources only, no paid stuff
 2. Do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known)
 
+## Selection of must-read articles
+
+Coming soon
+
 ## Websites
 
 - [HackerNews (HN)](https://news.ycombinator.com/) - Social tech and startup news run by Paul Graham / YCombinator
@@ -49,4 +53,7 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 - [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/)
 - [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
 - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
-- [Venture Deals](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
+- [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
+- [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
+- [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
+
