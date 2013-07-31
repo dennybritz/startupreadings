@@ -4,7 +4,7 @@ The goal is to create a curated list of **high-quality** startup resources for n
 
 ## Contributing
 
-Feel free to submit a pull requests to add resources to the list. Keep in mind that the goal of this list is to provide quality resources, so please do not use this as an opportunity to promote your own blog or website (unless you have are running something that is very well-known).
+Feel free to submit a pull requests to add resources to the list. Keep in mind that the goal of this list is to provide quality resources, so please do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known).
 
 ## Essential Resources
 
