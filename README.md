@@ -15,18 +15,17 @@ Feel free to submit a pull requests to add resources to the list. Keep in mind t
 
 ## Mailing Lists
 
-- [startupdigest.com](http://startupdigest.com/) - Weekly newsletter of curated startup articles.
-- [hackernewsletter.com](http://www.hackernewsletter.com/) - Weekly newsletter of the best articles from [HackerNews](https://news.ycombinator.com/).
+- [startupdigest.com](http://startupdigest.com/) - Weekly newsletter of curated startup articles
+- [hackernewsletter.com](http://www.hackernewsletter.com/) - Weekly newsletter of the best articles from [HackerNews](https://news.ycombinator.com/)
 
 
 ## Popular entrepreneur blogs
 
-
-- Coming soon.
+- Coming soon
 
 ## Popular VC blogs/articles
 
-- [Paul Graham's essays](http://paulgraham.com/articles.html) - Must-read essays by Paul Graham, founder of YCombinator.
+- [Paul Graham's essays](http://paulgraham.com/articles.html) - Must-read essays by Paul Graham, founder of YCombinator
 - [First Round Review](http://firstround.com/review/ ) - Actionable insights for tech entrepreneurs, by [First Round Capital](http://firstround.com/)
 - [Both sides of the table](http://bothsidesofthetable.com) - Blog run by Mark Suster, partner at [Upfront Ventures](http://www.upfront.com/)
 - [Redpoint ventures blog](http://www.redpoint.com/blog)
@@ -39,10 +38,10 @@ Feel free to submit a pull requests to add resources to the list. Keep in mind t
 - [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
 - [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
 - [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/)
-- [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the "Lean Startup"
-- [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies.
+- [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
+- [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
 - [Venture Deals](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
 
 ## People to follow on Twitter
 
-- Coming soon.
+- Coming soon
