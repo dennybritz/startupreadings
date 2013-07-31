@@ -6,7 +6,7 @@ The goal is to create a curated list of **high-quality** startup resources for n
 
 Feel free to submit a pull requests to add resources, but please stick to these rules:
 
-1. Free resources only. No paid stuff.
+1. Free resources only, no paid stuff
 2. Do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known)
 
 ## Websites
@@ -38,9 +38,9 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 
 ## Videos and MOOCs
 
-- [The Lean Launchpad by Steve Blank](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
-- [Startup Engineering](https://www.coursera.org/course/startup) - Learn the engineering skills needed to build a technology startup from the ground up.
-- [Developing Innovative Ideas for New Companies: The 1st Step in Entrepreneurship](https://www.coursera.org/course/innovativeideas) - Explore how to identify and develop great ideas into great companies. Learn how to identify opportunities based on real customer needs. Develop solid business models. Create successful companies.
+- [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
+- [Startup Engineering (Coursera)](https://www.coursera.org/course/startup) - Learn the engineering skills needed to build a technology startup from the ground up.
+- [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/course/innovativeideas) - Explore how to identify and develop great ideas into great companies. Learn how to identify opportunities based on real customer needs. Develop solid business models. Create successful companies.
 
 ## Popular Books
 
