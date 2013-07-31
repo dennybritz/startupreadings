@@ -8,7 +8,7 @@ Feel free to submit a pull requests to add resources to the list. Keep in mind t
 
 ## Essential Resources
 
-- [HackerNews (HN)](https://news.ycombinator.com/) - Reddit-like news site run by Paul Graham / YCombinator.
+- [HackerNews (HN)](https://news.ycombinator.com/) - Social tech and startup news run by Paul Graham / YCombinator
 - [Crunchbase](http://www.crunchbase.com/) - Free database of technology companies, people, and investors that anyone can edit.
 - [AngelList](https://angel.co/) - AngelList is a community of startups and investors who make fund-raising efficient.
 
