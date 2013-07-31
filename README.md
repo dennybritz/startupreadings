@@ -6,7 +6,7 @@ The goal is to create a curated list of **high-quality** startup resources for n
 
 Feel free to submit a pull requests to add resources to the list. Keep in mind that the goal of this list is to provide quality resources, so please do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known).
 
-## Essential Resources
+## Websites
 
 - [HackerNews (HN)](https://news.ycombinator.com/) - Social tech and startup news run by Paul Graham / YCombinator
 - [Crunchbase](http://www.crunchbase.com/) - Free database of technology companies, people, and investors that anyone can edit.
@@ -15,8 +15,8 @@ Feel free to submit a pull requests to add resources to the list. Keep in mind t
 
 ## Mailing Lists
 
-- [startupdigest.com](http://startupdigest.com/) - Weekly newsletter of curated startup articles
-- [hackernewsletter.com](http://www.hackernewsletter.com/) - Weekly newsletter of the best articles from [HackerNews](https://news.ycombinator.com/)
+- [Startup Digest](http://startupdigest.com/) - Weekly newsletter of curated startup articles
+- [Hacker Newsletter](http://www.hackernewsletter.com/) - Weekly newsletter of the best articles from [HackerNews](https://news.ycombinator.com/)
 
 
 ## Popular entrepreneur blogs
