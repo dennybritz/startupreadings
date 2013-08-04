@@ -11,7 +11,9 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 
 ## Selection of must-read articles
 
-Coming soon
+- [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
+- [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
+- [The one cost engineers and product managers don't consider](firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
 ## Websites
 
