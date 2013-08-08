@@ -9,11 +9,29 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 1. Free resources only, no paid stuff
 2. Do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known)
 
-## Selection of must-read articles
+## Selection of good articles/slides/videos for entrepreneurs
+
+On building startups in general:
 
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
+- [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
 - [The one cost engineers and product managers don't consider](firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
+- [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+
+On venture capital and raising money:
+
+- [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
+
+Legal Advice:
+
+- [If I launched a startup by Ryan Roberts](http://startuplawyer.com/startup-issues/if-i-launched-a-startup)
+
+Marketing & Metrics
+
+- [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
+- [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
+- [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 
 ## Websites
 
@@ -21,12 +39,14 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 - [Crunchbase](http://www.crunchbase.com/) - Free database of technology companies, people, and investors that anyone can edit.
 - [AngelList](https://angel.co/) - AngelList is a community of startups and investors who make fund-raising efficient.
 
-
-## Mailing Lists
+## Mailing Lists / Startup Lists
 
 - [Startup Digest](http://startupdigest.com/) - Weekly newsletter of curated startup articles
 - [Hacker Newsletter](http://www.hackernewsletter.com/) - Weekly newsletter of the best articles from [HackerNews](https://news.ycombinator.com/)
 
+- [Betali.st](http://betali.st/) - Be the first to discover and get access to the latest internet startups. A good place to submit your startup.
+- [Startupli.st](http://startupli.st/) - A place to find, follow, and recommend startups. It naturally caters to early adopters. A good place to submit your startup.
+- [Kickoffboost](www.kickoffboost.com) - Explore thousands of just-launched products. A good place to submit your startup.
 
 ## Popular VC blogs/articles
 
