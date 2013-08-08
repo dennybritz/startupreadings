@@ -30,8 +30,10 @@ Legal Advice:
 On marketing & metrics:
 
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
+- [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
+- [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
 
 ## Websites
 
@@ -83,5 +85,6 @@ On marketing & metrics:
 - [http://www.khoslaventures.com/entrepreneurial-resources.html](http://www.khoslaventures.com/entrepreneurial-resources.html)
 - [http://ycombinator.com/lib.html](http://ycombinator.com/lib.html)
 - [http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html](http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html)
+- [http://steveblank.com/tools-and-blogs-for-entrepreneurs/](http://steveblank.com/tools-and-blogs-for-entrepreneurs/)
 
 
