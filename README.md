@@ -9,7 +9,7 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 1. Free resources only, no paid stuff
 2. Do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known)
 
-## Selection of good articles/slides/videos for entrepreneurs
+## Selected resources
 
 On building startups in general:
 
@@ -27,7 +27,7 @@ Legal Advice:
 
 - [If I launched a startup by Ryan Roberts](http://startuplawyer.com/startup-issues/if-i-launched-a-startup)
 
-Marketing & Metrics
+On marketing & metrics:
 
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
