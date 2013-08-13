@@ -22,6 +22,7 @@ On building startups in general:
 On venture capital and raising money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
+- [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
 
 Legal Advice:
 
