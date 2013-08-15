@@ -18,6 +18,7 @@ On building startups in general:
 - [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
 - [The one cost engineers and product managers don't consider](firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+- [Startup Advice by Sam Altman](http://blog.samaltman.com/startup-advice)
 
 On venture capital and raising money:
 
