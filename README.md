@@ -42,6 +42,7 @@ On marketing & metrics:
 - [HackerNews (HN)](https://news.ycombinator.com/) - Social tech and startup news run by Paul Graham / YCombinator
 - [Crunchbase](http://www.crunchbase.com/) - Free database of technology companies, people, and investors that anyone can edit.
 - [AngelList](https://angel.co/) - AngelList is a community of startups and investors who make fund-raising efficient.
+- [Quibb](http://quibb.com/) - Professional network to share startup-related links.
 
 ## Mailing Lists / Startup Lists
 
