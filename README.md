@@ -19,6 +19,7 @@ On building startups in general:
 - [The one cost engineers and product managers don't consider](firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 - [Startup Advice by Sam Altman](http://blog.samaltman.com/startup-advice)
+- [My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)
 
 On venture capital and raising money:
 
@@ -33,9 +34,11 @@ On marketing & metrics:
 
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
 - [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
+- [How New User Acquisition Channels Drive Change](http://brianbalfour.com/post/58798523560/new-user-acquisition-channels)
 - [Guide to SaaS metrics by David Skok](http://www.forentrepreneurs.com/saas-metrics/)
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
+- [95 Ways to find your first customers](http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
 
 ## Websites
 
