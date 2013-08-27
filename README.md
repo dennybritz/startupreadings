@@ -39,6 +39,7 @@ On marketing & metrics:
 - [Free Marketing guides by Kissmetrics](http://blog.kissmetrics.com/marketing-guides/)
 - [Elements of a viral launch page by SmashingMagazine](http://www.smashingmagazine.com/2011/09/01/elements-of-a-viral-launch-page/)
 - [95 Ways to find your first customers](http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
+- [The definitive guide to growth hacking](http://www.quicksprout.com/the-definitive-guide-to-growth-hacking/)
 
 ## Websites
 
