@@ -16,10 +16,13 @@ On building startups in general:
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
 - [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
-- [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 - [Startup Advice by Sam Altman](http://blog.samaltman.com/startup-advice)
 - [My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)
+- [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
+
+On Engineering:
+- [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
 On venture capital and raising money:
 
@@ -55,7 +58,8 @@ On marketing & metrics:
 - [Betali.st](http://betali.st/) - Be the first to discover and get access to the latest internet startups. A good place to submit your startup.
 - [Startupli.st](http://startupli.st/) - A place to find, follow, and recommend startups. It naturally caters to early adopters. A good place to submit your startup.
 - [Kickoffboost](www.kickoffboost.com) - Explore thousands of just-launched products. A good place to submit your startup.
-- [Launchbit](http://www.launchbit.com/) - An email ad network that can promote your startup
+- [Launchbit](http://www.launchbit.com/) - An email ad network that can promote your startup.
+- [Erlibird](http://erlibird.com/) - A site for early adopters to discover startups.
 
 ## Popular VC blogs/articles
 
