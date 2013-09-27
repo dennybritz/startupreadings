@@ -48,7 +48,7 @@ On marketing & metrics:
 - [95 Ways to find your first customers](http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
 - [The definitive guide to growth hacking](http://www.quicksprout.com/the-definitive-guide-to-growth-hacking/)
 - [10 Marketing Lessons for Early-Stage Tech Startups](http://www.bothsidesofthetable.com/2011/06/27/10-lessons-for-managing-marketing-at-an-early-stage-startup/)
-- [How to manufacture desire](http://www.nirandfar.com/2012/03/how-to-manufacture-desire.html)
+- [How to build habit forming technologies](http://www.youtube.com/watch?v=FDtycnZgCfY)
 
 ## Websites
 
