@@ -32,6 +32,7 @@ On venture capital and raising money:
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
 - [How to present to investors by Aaref Hilaly](http://www.sequoiacap.com/grove/posts/bzxr-how-to-present-to-investors)
+- [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
 
 Legal Advice:
 
