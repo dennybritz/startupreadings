@@ -50,6 +50,8 @@ On marketing & metrics:
 - [The definitive guide to growth hacking](http://www.quicksprout.com/the-definitive-guide-to-growth-hacking/)
 - [10 Marketing Lessons for Early-Stage Tech Startups](http://www.bothsidesofthetable.com/2011/06/27/10-lessons-for-managing-marketing-at-an-early-stage-startup/)
 - [How to build habit forming technologies](http://www.youtube.com/watch?v=FDtycnZgCfY)
+- [How To Become A Customer Acquisition Expert](http://brianbalfour.com/post/63581380690/customer-acquisition)
+- [GrowthHackers](http://growthhackers.com/)
 
 ## Websites
 
