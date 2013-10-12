@@ -51,7 +51,6 @@ On marketing & metrics:
 - [10 Marketing Lessons for Early-Stage Tech Startups](http://www.bothsidesofthetable.com/2011/06/27/10-lessons-for-managing-marketing-at-an-early-stage-startup/)
 - [How to build habit forming technologies](http://www.youtube.com/watch?v=FDtycnZgCfY)
 - [How To Become A Customer Acquisition Expert](http://brianbalfour.com/post/63581380690/customer-acquisition)
-- [GrowthHackers](http://growthhackers.com/)
 
 ## Websites
 
@@ -60,6 +59,7 @@ On marketing & metrics:
 - [AngelList](https://angel.co/) - AngelList is a community of startups and investors who make fund-raising efficient.
 - [Quibb](http://quibb.com/) - Professional network to share startup-related links.
 - [The Grove](http://www.sequoiacap.com/grove) - Founders helping founders, by Sequoia capital.
+- [GrowthHackers](http://growthhackers.com/)
 
 ## Mailing Lists / Startup Lists
 
