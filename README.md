@@ -51,6 +51,7 @@ On marketing & metrics:
 - [10 Marketing Lessons for Early-Stage Tech Startups](http://www.bothsidesofthetable.com/2011/06/27/10-lessons-for-managing-marketing-at-an-early-stage-startup/)
 - [How to build habit forming technologies](http://www.youtube.com/watch?v=FDtycnZgCfY)
 - [How To Become A Customer Acquisition Expert](http://brianbalfour.com/post/63581380690/customer-acquisition)
+- [Spreadsheet for SaaS Analytics](http://andrewchen.co/2013/10/24/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/)
 
 ## Websites
 
