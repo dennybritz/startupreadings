@@ -20,6 +20,9 @@ On building startups in general:
 - [My Best Advice for Entrepreneurs: Learn to Speak](http://www.linkedin.com/today/post/article/20130819204919-62614725-my-best-advice-for-entrepreneurs)
 - [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
 
+Management and Scaling:
+- [Management advice from Naval](http://blog.djinni.co/post/68061191934/naval-ravikant-angellist-eventually-startups-will-be)
+
 On customer development:
 - [Validating Product Ideas Before Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
