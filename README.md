@@ -26,6 +26,7 @@ Management and Scaling:
 On customer development:
 - [Validating Product Ideas Before Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+- [Create products that people love by validating your idea first by Hiten Shah](http://hitenism.com/business-ideas/)
 
 On Engineering:
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
@@ -55,6 +56,7 @@ On marketing & metrics:
 - [How to build habit forming technologies](http://www.youtube.com/watch?v=FDtycnZgCfY)
 - [How To Become A Customer Acquisition Expert](http://brianbalfour.com/post/63581380690/customer-acquisition)
 - [Spreadsheet for SaaS Analytics](http://andrewchen.co/2013/10/24/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/)
+- [95 Ways to find your first customers](http://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale)
 
 ## Websites
 
