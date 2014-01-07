@@ -23,6 +23,7 @@ On building startups in general:
 
 Management and Scaling:
 - [Management advice from Naval](http://blog.djinni.co/post/68061191934/naval-ravikant-angellist-eventually-startups-will-be)
+- [A new kind of company without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
 
 On customer development:
 - [Validating Product Ideas Before Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
