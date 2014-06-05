@@ -61,6 +61,7 @@ On marketing & metrics:
 - [Spreadsheet for SaaS Analytics](http://andrewchen.co/2013/10/24/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/)
 - [Pre-Launch Email List Building With Directories](http://whitetailsoftware.com/2013/10/pre-launch-email-list-building-directories/)
 - [If SaaS Products Sell Themselves, Why Do We Need Sales? (B2B)](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
+- [Jessica Livingston: Why Startups Need to Focus on Sales, Not Marketing](http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/)
 
 ## Websites
 
