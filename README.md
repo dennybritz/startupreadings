@@ -21,9 +21,11 @@ On building startups in general:
 - [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 
-Management and Scaling:
+Management, Scaling Hiring:
 - [Management advice from Naval](http://blog.djinni.co/post/68061191934/naval-ravikant-angellist-eventually-startups-will-be)
 - [A new kind of company without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
+- [I’ve Worked with Hundreds of Recruiters - Here's What I Learned](http://firstround.com/article/Ive-Worked-with-Hundreds-of-Recruiters-Heres-What-I-Learned)
+
 
 On customer development:
 - [Validating Product Ideas Before Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
