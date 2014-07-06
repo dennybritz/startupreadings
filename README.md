@@ -73,6 +73,7 @@ On marketing & metrics:
 - [Quibb](http://quibb.com/) - Professional network to share startup-related links.
 - [The Grove](http://www.sequoiacap.com/grove) - Founders helping founders, by Sequoia capital.
 - [GrowthHackers](http://growthhackers.com/)
+- [Google Ventures Library](http://www.gv.com/library/)
 
 ## Mailing Lists / Startup Lists
 
