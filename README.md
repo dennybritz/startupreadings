@@ -84,6 +84,8 @@ On marketing & metrics:
 - [Kickoffboost](www.kickoffboost.com) - Explore thousands of just-launched products. A good place to submit your startup.
 - [Launchbit](http://www.launchbit.com/) - An email ad network that can promote your startup.
 - [Erlibird](http://erlibird.com/) - A site for early adopters to discover startups.
+- [Pressfriendly](http://www.pressfriendly.com/p/best_reporter) - Find the TechCrunch Reporter for Your Story
+- [ProductHunt](http://www.producthunt.com/) - the best new products, every day 
 
 ## Popular VC blogs/articles
 
