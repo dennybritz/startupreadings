@@ -87,6 +87,7 @@ On marketing & metrics:
 - [Erlibird](http://erlibird.com/) - A site for early adopters to discover startups.
 - [Pressfriendly](http://www.pressfriendly.com/p/best_reporter) - Find the TechCrunch Reporter for Your Story
 - [ProductHunt](http://www.producthunt.com/) - the best new products, every day 
+- [JustReachOut](https://justreachout.io/) - Helps you find reporters for your pitch
 
 ## Popular VC blogs/articles
 
