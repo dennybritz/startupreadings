@@ -64,6 +64,7 @@ On marketing & metrics:
 - [Pre-Launch Email List Building With Directories](http://whitetailsoftware.com/2013/10/pre-launch-email-list-building-directories/)
 - [If SaaS Products Sell Themselves, Why Do We Need Sales? (B2B)](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 - [Jessica Livingston: Why Startups Need to Focus on Sales, Not Marketing](http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/)
+- [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
 
 ## Websites
 
@@ -106,6 +107,7 @@ On marketing & metrics:
 - [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
 - [Startup Engineering (Coursera)](https://www.coursera.org/course/startup) - Learn the engineering skills needed to build a technology startup from the ground up.
 - [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/course/innovativeideas) - Explore how to identify and develop great ideas into great companies. Learn how to identify opportunities based on real customer needs. Develop solid business models. Create successful companies.
+- [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
 
 ## Popular Books
 
