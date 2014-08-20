@@ -121,7 +121,7 @@ On marketing & metrics:
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
 - [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
 
-## Other lists (how meta)
+## Other lists
 
 - [http://www.khoslaventures.com/entrepreneurial-resources.html](http://www.khoslaventures.com/entrepreneurial-resources.html)
 - [http://ycombinator.com/lib.html](http://ycombinator.com/lib.html)
