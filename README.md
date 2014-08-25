@@ -1,17 +1,17 @@
 ## Goal
 
-The goal is to create a curated list of **high-quality** startup resources for new and experienced entrepreneurs. 
+The goal is to create a curated list of startup resources for new and experienced entrepreneurs. 
 
 ## Contributing
 
 Feel free to submit a pull requests to add resources, but please stick to these rules:
 
 1. Free resources only, no paid stuff
-2. Do not use this as an opportunity to promote your own blog or website (unless you are running something that is very well-known)
+2. Do not use this as an opportunity to promote your own blog or website just because you can (unless you are running something that is pretty well-known)
 
 ## Selected resources
 
-On building startups in general:
+Startups in general:
 
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
@@ -22,21 +22,24 @@ On building startups in general:
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
-Management, Scaling Hiring:
+Management, Scaling and Hiring:
+
 - [Management advice from Naval](http://blog.djinni.co/post/68061191934/naval-ravikant-angellist-eventually-startups-will-be)
 - [A new kind of company without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
 - [I’ve Worked with Hundreds of Recruiters - Here's What I Learned](http://firstround.com/article/Ive-Worked-with-Hundreds-of-Recruiters-Heres-What-I-Learned)
 
 
-On customer development:
+Customer development:
+
 - [Validating Product Ideas Before Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
 - [An MVP is not a cheaper product by Steve Blank](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
 - [Create products that people love by validating your idea first by Hiten Shah](http://hitenism.com/business-ideas/)
 
-On Engineering:
+Engineering:
+
 - [The one cost engineers and product managers don't consider](http://firstround.com/article/The-one-cost-engineers-and-product-managers-dont-consider)
 
-On venture capital and raising money:
+Venture capital and raising money:
 
 - [Black Swan farming by Paul Graham](http://paulgraham.com/swan.html)
 - [How to convince investors by Paul Graham](http://paulgraham.com/convince.html)
@@ -48,7 +51,7 @@ Legal Advice:
 
 - [If I launched a startup by Ryan Roberts](http://startuplawyer.com/startup-issues/if-i-launched-a-startup)
 
-On marketing & metrics:
+Marketing & metrics:
 
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
 - [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
@@ -100,10 +103,6 @@ On marketing & metrics:
 - [AVC](http://www.avc.com/) - Blog run by Fred Wilson, a VC and principal of [Union Square Ventures](http://www.usv.com/)
 
 
-## Popular entrepreneur blogs
-
-- Coming soon
-
 ## Videos and MOOCs
 
 - [The Lean Launchpad by Steve Blank (Udacity)](https://www.udacity.com/course/ep245) - Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank's famous Customer Development process, where entrepreneurs "get out of the building" to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
@@ -121,6 +120,7 @@ On marketing & metrics:
 - [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
 - [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
 - [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
+[Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609/)
 
 ## Other lists
 
