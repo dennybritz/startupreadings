@@ -53,6 +53,7 @@ Legal Advice:
 
 Marketing & metrics:
 
+- [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
 - [Traction Mistakes by Gabriel Weinberg](http://www.gabrielweinberg.com/blog/2012/07/traction-mistakes.html)
 - [How New User Acquisition Channels Drive Change](http://brianbalfour.com/post/58798523560/new-user-acquisition-channels)
