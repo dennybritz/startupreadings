@@ -46,6 +46,7 @@ Venture capital and raising money:
 - [How to present to investors by Aaref Hilaly](http://www.sequoiacap.com/grove/posts/bzxr-how-to-present-to-investors)
 - [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
 - [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
+- [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
 
 Legal Advice:
 
