@@ -13,6 +13,7 @@ Feel free to submit a pull requests to add resources, but please stick to these 
 
 Startups in general:
 
+- [http://sivers.org/multiply](Ideas are just a multiplier of execution)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
 - [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
