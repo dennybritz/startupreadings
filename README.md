@@ -1,15 +1,3 @@
-## Goal
-
-The goal is to create a curated list of startup resources for new and experienced entrepreneurs. 
-
-## Contributing
-
-Feel free to submit a pull requests to add resources, but please stick to these rules:
-
-1. Free resources only, no paid stuff
-2. Do not use this as an opportunity to promote your own blog or website just because you can (unless you are running something that is pretty well-known)
-
-## Selected resources
 
 Startups in general:
 
@@ -53,7 +41,7 @@ Legal Advice:
 
 - [If I launched a startup by Ryan Roberts](http://startuplawyer.com/startup-issues/if-i-launched-a-startup)
 
-Marketing & metrics:
+Marketing, Sales & metrics:
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
@@ -72,6 +60,7 @@ Marketing & metrics:
 - [If SaaS Products Sell Themselves, Why Do We Need Sales? (B2B)](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 - [Jessica Livingston: Why Startups Need to Focus on Sales, Not Marketing](http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/)
 - [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
+- [Extensive notes from SalesConf](http://codingvc.com/extensive-notes-from-salesconf)
 
 ## Websites
 
