@@ -1,7 +1,7 @@
 
 Startups in general:
 
-- [http://sivers.org/multiply](Ideas are just a multiplier of execution)
+- [Ideas are just a multiplier of execution](http://sivers.org/multiply)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
 - [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
@@ -61,6 +61,7 @@ Marketing, Sales & metrics:
 - [Jessica Livingston: Why Startups Need to Focus on Sales, Not Marketing](http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/)
 - [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
 - [Extensive notes from SalesConf](http://codingvc.com/extensive-notes-from-salesconf)
+- [If SaaS Products Sell Themselves, Why Do We Need Sales](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 
 ## Websites
 
