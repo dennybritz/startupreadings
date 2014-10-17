@@ -103,6 +103,7 @@ Marketing, Sales & metrics:
 - [Startup Engineering (Coursera)](https://www.coursera.org/course/startup) - Learn the engineering skills needed to build a technology startup from the ground up.
 - [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/course/innovativeideas) - Explore how to identify and develop great ideas into great companies. Learn how to identify opportunities based on real customer needs. Develop solid business models. Create successful companies.
 - [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
+- [YC Startup School 2012, 2013, 2014 videos](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists)
 
 ## Popular Books
 
