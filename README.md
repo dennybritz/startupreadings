@@ -11,6 +11,7 @@ Startups in general:
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 - [The Founder's guide to selling your company](http://justinkan.com/the-founders-guide-to-selling-your-company)
+- [How to make sense of conflicting startup advice](http://www.bothsidesofthetable.com/2014/08/30/here-is-how-to-make-sense-of-conflicting-startup-advice/)
 
 Management, Scaling and Hiring:
 
