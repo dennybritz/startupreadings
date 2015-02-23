@@ -12,6 +12,7 @@ Startups in general:
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 - [The Founder's guide to selling your company](http://justinkan.com/the-founders-guide-to-selling-your-company)
 - [How to make sense of conflicting startup advice](http://www.bothsidesofthetable.com/2014/08/30/here-is-how-to-make-sense-of-conflicting-startup-advice/)
+- [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
 Management, Scaling and Hiring:
 
