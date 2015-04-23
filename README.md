@@ -1,19 +1,7 @@
-## Goal
-
-The goal is to create a curated list of startup resources for new and experienced entrepreneurs. 
-
-## Contributing
-
-Feel free to submit a pull requests to add resources, but please stick to these rules:
-
-1. Free resources only, no paid stuff
-2. Do not use this as an opportunity to promote your own blog or website just because you can (unless you are running something that is pretty well-known)
-
-## Selected resources
 
 Startups in general:
 
-- [http://sivers.org/multiply](Ideas are just a multiplier of execution)
+- [Ideas are just a multiplier of execution](http://sivers.org/multiply)
 - [Do things that don't scale by Paul Graham](http://paulgraham.com/ds.html)
 - [Startup = Growth by Paul Graham](http://paulgraham.com/growth.html)
 - [What startups are really like by Paul Graham](http://www.paulgraham.com/really.html)
@@ -22,12 +10,17 @@ Startups in general:
 - [Paul Graham on Building Companies for Fast Growth ](http://www.inc.com/magazine/201309/issie-lapowsky/how-paul-graham-became-successful.html)
 - [The 30 Best Pieces of Advice for Entrepreneurs in 2013](http://firstround.com/article/30-Best-Pieces)
 - [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
+- [The Founder's guide to selling your company](http://justinkan.com/the-founders-guide-to-selling-your-company)
+- [How to make sense of conflicting startup advice](http://www.bothsidesofthetable.com/2014/08/30/here-is-how-to-make-sense-of-conflicting-startup-advice/)
+- [The Dentist Office Software Story](http://avc.com/2014/07/the-dentist-office-software-story/)
 
 Management, Scaling and Hiring:
 
 - [Management advice from Naval](http://blog.djinni.co/post/68061191934/naval-ravikant-angellist-eventually-startups-will-be)
 - [A new kind of company without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
 - [I’ve Worked with Hundreds of Recruiters - Here's What I Learned](http://firstround.com/article/Ive-Worked-with-Hundreds-of-Recruiters-Heres-What-I-Learned)
+- [What is the right burn rate for a startup](http://www.bothsidesofthetable.com/2014/09/28/what-is-the-right-burn-rate-at-a-startup-company/)
+- [A Counterintuitive System for Startup Compensation](http://firstround.com/article/A-Counterintuitive-System-for-Startup-Compensation)
 
 
 Customer development:
@@ -48,12 +41,13 @@ Venture capital and raising money:
 - [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/)
 - [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make)
 - [Pitch Decks for VCs - You’re doing it wrong.](https://medium.com/boost-vc/5-rules-for-the-pitch-deck-d7c7bbc3185d)
+- [Raising Capital: This is the Advice We Give Our Founders](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders/)
 
 Legal Advice:
 
 - [If I launched a startup by Ryan Roberts](http://startuplawyer.com/startup-issues/if-i-launched-a-startup)
 
-Marketing & metrics:
+Marketing, Sales & metrics:
 
 - [The Pmarca Guide to Startups, part 4: The only thing that matters](http://web.archive.org/web/20070701074943/http://blog.pmarca.com/2007/06/the-pmarca-gu-2.html)
 - [Startup Metrics for Pirates by Dave McClure](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
@@ -72,6 +66,8 @@ Marketing & metrics:
 - [If SaaS Products Sell Themselves, Why Do We Need Sales? (B2B)](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 - [Jessica Livingston: Why Startups Need to Focus on Sales, Not Marketing](http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/)
 - [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
+- [Extensive notes from SalesConf](http://codingvc.com/extensive-notes-from-salesconf)
+- [If SaaS Products Sell Themselves, Why Do We Need Sales](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/)
 
 Postmortems & Learnings:
 
@@ -117,6 +113,7 @@ Postmortems & Learnings:
 - [Startup Engineering (Coursera)](https://www.coursera.org/course/startup) - Learn the engineering skills needed to build a technology startup from the ground up.
 - [Developing Innovative Ideas for New Companies (Coursera)](https://www.coursera.org/course/innovativeideas) - Explore how to identify and develop great ideas into great companies. Learn how to identify opportunities based on real customer needs. Develop solid business models. Create successful companies.
 - [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
+- [YC Startup School 2012, 2013, 2014 videos](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists)
 
 ## Popular Books
 
