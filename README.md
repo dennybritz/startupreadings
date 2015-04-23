@@ -73,6 +73,11 @@ Marketing & metrics:
 - [Jessica Livingston: Why Startups Need to Focus on Sales, Not Marketing](http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/)
 - [500 Startups #500distro conference videos](https://www.youtube.com/playlist?list=PLOStnEM8wBOZMOr_jwoK4-EtPuX5fJrzK)
 
+Postmortems & Learnings:
+
+- [http://thederek.com/post/117083143500/lessons-learned-four-years-startup-founder](Lessons Learned After Four Years as a Startup Founder)
+- [https://medium.com/@brett1211/postmortem-of-a-venture-backed-startup-72c6f8bec7df](Postmortem of a Venture-backed Startup (Sonar))
+
 ## Websites
 
 - [HackerNews (HN)](https://news.ycombinator.com/) - Social tech and startup news run by Paul Graham / YCombinator
