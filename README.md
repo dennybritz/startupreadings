@@ -60,6 +60,7 @@ Marketing, Sales & metrics:
 - [The definitive guide to growth hacking](http://www.quicksprout.com/the-definitive-guide-to-growth-hacking/)
 - [10 Marketing Lessons for Early-Stage Tech Startups](http://www.bothsidesofthetable.com/2011/06/27/10-lessons-for-managing-marketing-at-an-early-stage-startup/)
 - [How to build habit forming technologies](http://www.youtube.com/watch?v=FDtycnZgCfY)
+- [How to identify your "aha!" moments](https://get.hull.io/complete-guide-pqls/chapter5/)
 - [How To Become A Customer Acquisition Expert](http://brianbalfour.com/post/63581380690/customer-acquisition)
 - [Spreadsheet for SaaS Analytics](http://andrewchen.co/2013/10/24/the-easiest-spreadsheet-for-churn-mrr-and-cohort-analysis-guest-post/)
 - [Pre-Launch Email List Building With Directories](http://whitetailsoftware.com/2013/10/pre-launch-email-list-building-directories/)
@@ -71,8 +72,8 @@ Marketing, Sales & metrics:
 
 Postmortems & Learnings:
 
-- [http://thederek.com/post/117083143500/lessons-learned-four-years-startup-founder](Lessons Learned After Four Years as a Startup Founder)
-- [https://medium.com/@brett1211/postmortem-of-a-venture-backed-startup-72c6f8bec7df](Postmortem of a Venture-backed Startup (Sonar))
+- [Lessons Learned After Four Years as a Startup Founder](http://thederek.com/post/117083143500/lessons-learned-four-years-startup-founder)
+- [Postmortem of a Venture-backed Startup (Sonar)](https://medium.com/@brett1211/postmortem-of-a-venture-backed-startup-72c6f8bec7df)
 
 ## Websites
 
@@ -132,9 +133,9 @@ Postmortems & Learnings:
 
 ## Other lists
 
-- [http://www.khoslaventures.com/entrepreneurial-resources.html](http://www.khoslaventures.com/entrepreneurial-resources.html)
-- [http://ycombinator.com/lib.html](http://ycombinator.com/lib.html)
-- [http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html](http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html)
-- [http://steveblank.com/tools-and-blogs-for-entrepreneurs/](http://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+- [Khosla Ventures Entrepreneurial Resources](http://www.khoslaventures.com/entrepreneurial-resources.html)
+- [Y Combinator Startup Library](http://ycombinator.com/lib.html)
+- [A Compilation of the Web's Best Advice for Entrepreneurs](http://platformsandnetworks.blogspot.com/2009/11/compilation-of-webs-best-advice-for.html)
+- [Steve Blank Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs/)
 
 
