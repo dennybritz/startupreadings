@@ -20,7 +20,8 @@ Management, Scaling and Hiring:
 - [A new kind of company without managers](http://firstround.com/article/How-Medium-is-building-a-new-kind-of-company-with-no-managers)
 - [I’ve Worked with Hundreds of Recruiters - Here's What I Learned](http://firstround.com/article/Ive-Worked-with-Hundreds-of-Recruiters-Heres-What-I-Learned)
 - [What is the right burn rate for a startup](http://www.bothsidesofthetable.com/2014/09/28/what-is-the-right-burn-rate-at-a-startup-company/)
-- [A Counterintuitive System for Startup Compensation](http://firstround.com/article/A-Counterintuitive-System-for-Startup-Compensation)https://github.com/srividhyaprakash/startupreadings.git
+- [A Counterintuitive System for Startup Compensation](http://firstround.com/article/A-Counterintuitive-System-for-Startup-Compensation)
+- [Master's of Scale by Reid Hoffman, a podcast series](https://mastersofscale.com/)
 
 
 Customer development:
